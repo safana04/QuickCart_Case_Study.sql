@@ -1,0 +1,1 @@
+# QuickCart_Case_Study.sql
